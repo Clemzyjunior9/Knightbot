@@ -1,7 +1,7 @@
 const settings = {
   packname: '4KT',
-  author: '4KT',
-  botName: "4KT",
+  author: 'bot',
+  botName: "4KT bot",
   botOwner: '4KT', // Your name
   ownerNumber: '233596888329', //Your number
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
